@@ -16,7 +16,6 @@ In this project, I conducted exploratory data analysis (EDA) on a dataset relate
 
 6. **Insights and Conclusions**: I summarized the key findings from the EDA, discussing patterns, trends, and relationships observed in the data. I also provided insights gleaned from the analysis and discussed their implications for understanding terrorism-related phenomena.
 
-7. **Future Directions**: I suggested potential avenues for further analysis or research based on the findings of the EDA, outlining opportunities to explore specific subgroups, investigate causal relationships, or develop predictive models.
 
 ## Technologies Used:
 - Programming Language: Python
