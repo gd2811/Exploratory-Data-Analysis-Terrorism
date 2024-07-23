@@ -27,7 +27,3 @@ In this project, I conducted exploratory data analysis (EDA) on a dataset relate
 - `data/`: Folder containing the dataset used for analysis.
 - `visualizations/`: Folder containing visualizations generated during the analysis.
 
-## Conclusion:
-Through this project, I aimed to provide valuable insights into terrorism incidents through exploratory data analysis, laying the groundwork for further research and analysis in this important field.
-
-
